@@ -1,0 +1,18 @@
+{
+  "Name": "azure-mgmt-recoveryservices",
+  "Version": "3.0.0a20240909001",
+  "DevVersion": "3.0.0a20240909001",
+  "DirectoryPath": "sdk/recoveryservices/azure-mgmt-recoveryservices",
+  "ServiceDirectory": "recoveryservices",
+  "ReadMePath": "sdk/recoveryservices/azure-mgmt-recoveryservices/README.md",
+  "ChangeLogPath": "sdk/recoveryservices/azure-mgmt-recoveryservices/CHANGELOG.md",
+  "Group": null,
+  "SdkType": "mgmt",
+  "IsNewSdk": true,
+  "ArtifactName": "azure-mgmt-recoveryservices",
+  "ReleaseStatus": "2024-04-22",
+  "AdditionalValidationPackages": null,
+  "Namespaces": [
+    "azure.mgmt.recoveryservices"
+  ]
+}
