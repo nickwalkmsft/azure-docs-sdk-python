@@ -6,8 +6,8 @@ ms.topic: reference
 ms.devlang: python
 ms.service: cosmos
 ---
-# Azure Cosmos DB SQL API client library for Python - version 4.7.1a20240911003 
- - DR DRILL FEED2
+# Azure Cosmos DB SQL API client library for Python - version 4.7.1a20240911004 
+
 
 ## _Disclaimer_
 _Azure SDK Python packages support for Python 2.7 has ended 01 January 2022. For more information and questions, please refer to https://github.com/Azure/azure-sdk-for-python/issues/20691_

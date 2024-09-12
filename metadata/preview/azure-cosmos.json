@@ -1,7 +1,7 @@
 {
   "Name": "azure-cosmos",
-  "Version": "4.7.1a20240911003",
-  "DevVersion": "4.7.1a20240911003",
+  "Version": "4.7.1a20240911004",
+  "DevVersion": "4.7.1a20240911004",
   "DirectoryPath": "sdk/cosmos/azure-cosmos",
   "ServiceDirectory": "cosmos",
   "ReadMePath": "sdk/cosmos/azure-cosmos/README.md",
@@ -11,8 +11,9 @@
   "IsNewSdk": true,
   "ArtifactName": "azure-cosmos",
   "ReleaseStatus": "Unreleased",
-  "DependentPackages": null,
+  "AdditionalValidationPackages": null,
   "Namespaces": [
     "azure.cosmos"
-  ]
+  ],
+  "DependentPackages": null
 }
