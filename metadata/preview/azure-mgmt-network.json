@@ -1,0 +1,18 @@
+{
+  "Name": "azure-mgmt-network",
+  "Version": "26.0.0a20240912001",
+  "DevVersion": "26.0.0a20240912001",
+  "DirectoryPath": "sdk/network/azure-mgmt-network",
+  "ServiceDirectory": "network",
+  "ReadMePath": "sdk/network/azure-mgmt-network/README.md",
+  "ChangeLogPath": "sdk/network/azure-mgmt-network/CHANGELOG.md",
+  "Group": null,
+  "SdkType": "mgmt",
+  "IsNewSdk": true,
+  "ArtifactName": "azure-mgmt-network",
+  "ReleaseStatus": "2024-07-21",
+  "AdditionalValidationPackages": null,
+  "Namespaces": [
+    "azure.mgmt.network"
+  ]
+}
