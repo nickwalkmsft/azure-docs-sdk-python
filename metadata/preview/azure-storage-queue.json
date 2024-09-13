@@ -1,7 +1,7 @@
 {
   "Name": "azure-storage-queue",
-  "Version": "12.12.0a20240912003",
-  "DevVersion": "12.12.0a20240912003",
+  "Version": "12.12.0a20240912005",
+  "DevVersion": "12.12.0a20240912005",
   "DirectoryPath": "sdk/storage/azure-storage-queue",
   "ServiceDirectory": "storage",
   "ReadMePath": "sdk/storage/azure-storage-queue/README.md",

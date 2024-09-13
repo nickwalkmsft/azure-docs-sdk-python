@@ -1,7 +1,7 @@
 {
   "Name": "azure-storage-blob",
-  "Version": "12.23.0a20240912003",
-  "DevVersion": "12.23.0a20240912003",
+  "Version": "12.23.0a20240912005",
+  "DevVersion": "12.23.0a20240912005",
   "DirectoryPath": "sdk/storage/azure-storage-blob",
   "ServiceDirectory": "storage",
   "ReadMePath": "sdk/storage/azure-storage-blob/README.md",

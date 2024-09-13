@@ -1,7 +1,7 @@
 {
   "Name": "azure-storage-blob-changefeed",
-  "Version": "12.0.0a20240912003",
-  "DevVersion": "12.0.0a20240912003",
+  "Version": "12.0.0a20240912005",
+  "DevVersion": "12.0.0a20240912005",
   "DirectoryPath": "sdk/storage/azure-storage-blob-changefeed",
   "ServiceDirectory": "storage",
   "ReadMePath": "sdk/storage/azure-storage-blob-changefeed/README.md",
