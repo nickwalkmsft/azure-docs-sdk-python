@@ -1,0 +1,19 @@
+{
+  "Name": "azure-core",
+  "Version": "1.31.1a20240916001",
+  "DevVersion": "1.31.1a20240916001",
+  "DirectoryPath": "sdk/core/azure-core",
+  "ServiceDirectory": "core",
+  "ReadMePath": "sdk/core/azure-core/README.md",
+  "ChangeLogPath": "sdk/core/azure-core/CHANGELOG.md",
+  "Group": null,
+  "SdkType": "client",
+  "IsNewSdk": true,
+  "ArtifactName": "azure-core",
+  "ReleaseStatus": "Unreleased",
+  "IncludedForValidation": false,
+  "AdditionalValidationPackages": null,
+  "Namespaces": [
+    "azure.core"
+  ]
+}
