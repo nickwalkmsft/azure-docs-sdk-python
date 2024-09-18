@@ -1,0 +1,19 @@
+{
+  "Name": "azure-mgmt-redis",
+  "Version": "14.4.0a20240918001",
+  "DevVersion": "14.4.0a20240918001",
+  "DirectoryPath": "sdk/redis/azure-mgmt-redis",
+  "ServiceDirectory": "redis",
+  "ReadMePath": "sdk/redis/azure-mgmt-redis/README.md",
+  "ChangeLogPath": "sdk/redis/azure-mgmt-redis/CHANGELOG.md",
+  "Group": null,
+  "SdkType": "mgmt",
+  "IsNewSdk": true,
+  "ArtifactName": "azure-mgmt-redis",
+  "ReleaseStatus": "2024-07-21",
+  "IncludedForValidation": false,
+  "AdditionalValidationPackages": null,
+  "Namespaces": [
+    "azure.mgmt.redis"
+  ]
+}
