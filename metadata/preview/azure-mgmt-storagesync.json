@@ -1,7 +1,7 @@
 {
   "Name": "azure-mgmt-storagesync",
-  "Version": "2.0.0a20240917003",
-  "DevVersion": "2.0.0a20240917003",
+  "Version": "2.0.0a20240917005",
+  "DevVersion": "2.0.0a20240917005",
   "DirectoryPath": "sdk/storage/azure-mgmt-storagesync",
   "ServiceDirectory": "storage",
   "ReadMePath": "sdk/storage/azure-mgmt-storagesync/README.md",
@@ -10,9 +10,11 @@
   "SdkType": "mgmt",
   "IsNewSdk": true,
   "ArtifactName": "azure-mgmt-storagesync",
-  "ReleaseStatus": "2022-10-31",
+  "ReleaseStatus": null,
   "IncludedForValidation": false,
-  "AdditionalValidationPackages": null,
+  "AdditionalValidationPackages": [
+    ""
+  ],
   "Namespaces": [
     "azure.mgmt.storagesync"
   ],

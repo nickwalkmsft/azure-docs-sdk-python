@@ -1,7 +1,7 @@
 {
   "Name": "azure-storage-blob-changefeed",
-  "Version": "12.0.0a20240917003",
-  "DevVersion": "12.0.0a20240917003",
+  "Version": "12.0.0a20240917005",
+  "DevVersion": "12.0.0a20240917005",
   "DirectoryPath": "sdk/storage/azure-storage-blob-changefeed",
   "ServiceDirectory": "storage",
   "ReadMePath": "sdk/storage/azure-storage-blob-changefeed/README.md",
@@ -10,9 +10,11 @@
   "SdkType": "client",
   "IsNewSdk": false,
   "ArtifactName": "azure-storage-blob-changefeed",
-  "ReleaseStatus": "Unreleased",
+  "ReleaseStatus": null,
   "IncludedForValidation": false,
-  "AdditionalValidationPackages": null,
+  "AdditionalValidationPackages": [
+    ""
+  ],
   "Namespaces": [
     "azure.storage.blob.changefeed"
   ],
