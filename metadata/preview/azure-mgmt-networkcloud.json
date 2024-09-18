@@ -1,0 +1,19 @@
+{
+  "Name": "azure-mgmt-networkcloud",
+  "Version": "1.0.0a20240918001",
+  "DevVersion": "1.0.0a20240918001",
+  "DirectoryPath": "sdk/networkcloud/azure-mgmt-networkcloud",
+  "ServiceDirectory": "networkcloud",
+  "ReadMePath": "sdk/networkcloud/azure-mgmt-networkcloud/README.md",
+  "ChangeLogPath": "sdk/networkcloud/azure-mgmt-networkcloud/CHANGELOG.md",
+  "Group": null,
+  "SdkType": "mgmt",
+  "IsNewSdk": true,
+  "ArtifactName": "azure-mgmt-networkcloud",
+  "ReleaseStatus": "2023-08-18",
+  "IncludedForValidation": false,
+  "AdditionalValidationPackages": null,
+  "Namespaces": [
+    "azure.mgmt.networkcloud"
+  ]
+}
