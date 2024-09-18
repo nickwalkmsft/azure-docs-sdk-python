@@ -1,7 +1,7 @@
 {
   "Name": "azure-mgmt-managedservices",
-  "Version": "7.0.0b1",
-  "DevVersion": null,
+  "Version": "7.0.0a20240918001",
+  "DevVersion": "7.0.0a20240918001",
   "DirectoryPath": "sdk/managedservices/azure-mgmt-managedservices",
   "ServiceDirectory": "managedservices",
   "ReadMePath": "sdk/managedservices/azure-mgmt-managedservices/README.md",
@@ -11,6 +11,8 @@
   "IsNewSdk": true,
   "ArtifactName": "azure-mgmt-managedservices",
   "ReleaseStatus": "2022-10-31",
+  "IncludedForValidation": false,
+  "AdditionalValidationPackages": null,
   "Namespaces": [
     "azure.mgmt.managedservices"
   ]
