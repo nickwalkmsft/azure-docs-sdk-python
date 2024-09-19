@@ -12,9 +12,7 @@
   "ArtifactName": "corehttp",
   "ReleaseStatus": "2024-02-29",
   "IncludedForValidation": false,
-  "AdditionalValidationPackages": [
-    ""
-  ],
+  "AdditionalValidationPackages": null,
   "Namespaces": [
     "corehttp"
   ]
